@@ -2,4 +2,4 @@
 
 ## SAP Stammtisch Dortmund
 
-[Infos rund um SAP Stammtisch Dortmund](https://sbasischeck.github.io/SAPStammtischDO/)
+[Infos rund um SAP Stammtisch Dortmund](https://sapstammtisch.github.io/Dortmund/)
