@@ -12,8 +12,8 @@ In der aktuellen Situation findet der SAP Stammtisch virtuell statt!
 
 ### SAP Stammtisch Dortmund
 
-Der SAP Stammtisch Dortmund ist ein regelmäßiges Treffen der lokalen SAP Community.
-Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen.
+Der SAP Stammtisch Dortmund ist ein regelmäßiges Treffen der lokalen SAP Community.  
+Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen.  
 Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
