@@ -20,7 +20,7 @@ Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thierga
 
 ### Aktuelles - Nächstes Treffen
  
-> Termin: tbd  
+> Termin: Mittwoch, 19.05.2021 20h 
 
 [Anmeldedetails](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
 
