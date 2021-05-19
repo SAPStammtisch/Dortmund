@@ -18,10 +18,10 @@ Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thierga
 
 ### Aktuelles - Nächstes Treffen
  
-> Termin: Mittwoch, **19.05.2021 20h**  
-  [Link zur Zoom Session](https://us02web.zoom.us/j/81648909147)  
-  Meeting-ID: 816 4890 9147  
-  Kenncode: 8454541234
+> Termin: Mittwoch, **tbd**  
+  [Link zur Zoom Session]()  
+  Meeting-ID:   
+  Kenncode: 
 
 [Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
 [Anmeldung über SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
@@ -41,6 +41,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 ### Archiv Bisherige Stammtisch Treffen
 
 #### 2021
+- Mittwoch, 19.05.2021 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz))
 - Mittwoch, 07.04.2021 ab 20 Uhr (virtuell)
 - Mittwoch, 10.03.2021 ab 20 Uhr (virtuell)
 - Mittwoch, 10.02.2021 ab 20 Uhr (virtuell)
