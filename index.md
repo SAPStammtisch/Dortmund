@@ -18,7 +18,8 @@ Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thierga
 
 ### Aktuelles - Nächstes Treffen
  
-> Termin: Mittwoch, **tbd**  
+> Termin: Mittwoch, **09.06.2021 20h**  
+  **Anmeldedaten werden noch veröffentlicht**  
   [Link zur Zoom Session]()  
   Meeting-ID:   
   Kenncode: 
