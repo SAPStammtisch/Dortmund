@@ -20,9 +20,9 @@ Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thierga
  
 > Termin: Mittwoch, **09.06.2021 20h**  
   **Anmeldedaten werden noch veröffentlicht**  
-  [Link zur Zoom Session]()  
-  Meeting-ID:   
-  Kenncode: 
+  [Link zur Zoom Session](https://us02web.zoom.us/j/82093464489?pwd=NUJqMi9ERERzejBsQUtXcmlBMitiQT09)  
+  Meeting-ID: 820 9346 4489  
+  Kenncode: 146775123
 
 [Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
 [Anmeldung über SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
