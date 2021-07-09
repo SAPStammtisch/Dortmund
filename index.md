@@ -17,11 +17,11 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
 ### Aktuelles - Nächstes Treffen
- 
-> Termin: Mittwoch, **09.06.2021 20h**  
-  [Link zur Zoom Session](https://us02web.zoom.us/j/82093464489?pwd=NUJqMi9ERERzejBsQUtXcmlBMitiQT09)  
-  Meeting-ID: 820 9346 4489  
-  Kenncode: 146775123
+ Zusammen mit dem SAP Stammtisch Bern
+> Termin: Mittwoch, **20.07.2021 20h**  
+  [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)  
+Meeting-ID: 9218 525 2407  
+Kenncode: ddic
 
 [Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
 [Anmeldung über SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
@@ -41,6 +41,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 ### Archiv Bisherige Stammtisch Treffen
 
 #### 2021
+- Mittwoch, 09.06.2021 ab 20 Uhr (virtuell)
 - Mittwoch, 19.05.2021 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz))
 - Mittwoch, 07.04.2021 ab 20 Uhr (virtuell)
 - Mittwoch, 10.03.2021 ab 20 Uhr (virtuell)
