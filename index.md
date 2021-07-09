@@ -18,7 +18,7 @@ Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thierga
 
 ### Aktuelles - Nächstes Treffen
  Zusammen mit dem SAP Stammtisch Bern
-> Termin: Mittwoch, **20.07.2021 20h**  
+> Termin: Dienstag, **20.07.2021 20h**  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)  
 Meeting-ID: 9218 525 2407  
 Kenncode: ddic
