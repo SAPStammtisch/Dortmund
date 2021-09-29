@@ -17,7 +17,7 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
 ### Aktuelles - Nächstes Treffen
- Zusammen mit dem SAP Stammtisch Bern
+ 
 > Termin: Mittwoch, **13.10.2021 20h**  
   [Link zur Zoom Session](https://c-a-s.zoom.us/j/91640785520?pwd=RVpGaVFwSEdFZk05RThKY2N5d2tnQT09)  
 Meeting-ID: 916 4078 5520  
