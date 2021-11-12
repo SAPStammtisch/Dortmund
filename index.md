@@ -16,6 +16,15 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
+### SAP techEd 2021 Special
+
+Wir bieten wieder ein gemeinsames Zoom-meeting an, um sich parallel zu der SAP techEd auszutauschen.
+
+> Termin: Dienstag, 16.11. - 18.11.2021, Start ab 15h
+  Link zur Zoom Session](https://us02web.zoom.us/j/85862516987?pwd=NE9ibW1HMWNjZ0kxVG1uNDk1NnJFQT09)
+  Meeting-ID: 858 6251 6987  
+  Kenncode: Salve  
+
 ### Aktuelles - Nächstes Treffen
 
 Zusammen mit dem [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz)  
@@ -28,8 +37,8 @@ Zusammen mit dem [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/eve
 
 > Termin: Mittwoch, **14.12.2021 20h**  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)  
-Meeting-ID: 9218 525 2407  
-Kenncode: ddic
+  Meeting-ID: 9218 525 2407  
+  Kenncode: ddic
 
 [Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
 [Anmeldung über SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
