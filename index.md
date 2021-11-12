@@ -16,13 +16,13 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
-### SAP techEd 2021 Special
+### SAP TechEd 2021 Special
 
-Wir bieten wieder ein gemeinsames Zoom-meeting an, um sich parallel zu der SAP techEd auszutauschen.
+Wir bieten wieder ein gemeinsames Zoom-Meeting an, um sich parallel zu der SAP TechEd auszutauschen.
 
-> Termin: Dienstag, 16.11. - 18.11.2021, Start ab 15h
-  Link zur Zoom Session](https://us02web.zoom.us/j/85862516987?pwd=NE9ibW1HMWNjZ0kxVG1uNDk1NnJFQT09)
-  Meeting-ID: 858 6251 6987  
+> Termin: Dienstag, 16.11. - 18.11.2021, Start ab 15h  
+  [Link zur Zoom Session](https://us02web.zoom.us/j/85862516987?pwd=NE9ibW1HMWNjZ0kxVG1uNDk1NnJFQT09)  
+  Meeting-ID: 858 6251 6987    
   Kenncode: Salve  
 
 ### Aktuelles - Nächstes Treffen
