@@ -26,7 +26,7 @@ Zusammen mit dem [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/eve
   [SAP Community](https://people.sap.com/jelena.perfiljeva2)  
   [Twitter](https://twitter.com/JelenaAtLarge)
 
-> Termin: Mittwoch, **14.12.2021 20h**  
+> Termin: Dienstag, **14.12.2021 20h**  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)  
   Meeting-ID: 9218 525 2407  
   Kenncode: ddic
