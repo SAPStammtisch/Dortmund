@@ -22,7 +22,7 @@ Zusammen mit dem [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/eve
 
 > Thema:  
   Buchvorstellung:  
-  Jelena Perfiljeva - ABAP - An Introduction  
+  Jelena Perfiljeva - [ABAP - An Introduction](https://www.rheinwerk-verlag.de/getting-started-with-abap/)  
   [SAP Community](https://people.sap.com/jelena.perfiljeva2)  
   [Twitter](https://twitter.com/JelenaAtLarge)
 
