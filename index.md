@@ -16,15 +16,6 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
-### SAP TechEd 2021 Special
-
-Wir bieten wieder ein gemeinsames Zoom-Meeting an, um sich parallel zu der SAP TechEd auszutauschen.
-
-> Termin: Dienstag, 16.11. - 18.11.2021, Start ab 15h  
-  [Link zur Zoom Session](https://us02web.zoom.us/j/85862516987?pwd=NE9ibW1HMWNjZ0kxVG1uNDk1NnJFQT09)  
-  Meeting-ID: 858 6251 6987    
-  Kenncode: Salve  
-
 ### Aktuelles - Nächstes Treffen
 
 Zusammen mit dem [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz)  
