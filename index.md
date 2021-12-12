@@ -22,9 +22,8 @@ Zusammen mit dem [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/eve
 
 > Thema:  
   Buchvorstellung:  
-  Jelena Perfiljeva - [ABAP - An Introduction](https://www.rheinwerk-verlag.de/getting-started-with-abap/)  
-  [SAP Community](https://people.sap.com/jelena.perfiljeva2)  
-  [Twitter](https://twitter.com/JelenaAtLarge)
+  Jörg Brandeis - [SQLScript für SAP HANA](https://www.rheinwerk-verlag.de/sqlscript-fuer-sap-hana/)  
+  [Twitter](https://twitter.com/joerg_brandeis)
 
 > Termin: Dienstag, **14.12.2021 20h**  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)  
