@@ -1,14 +1,10 @@
-## Willkommen zu den öffentlichen Ressourcen vom SAP Stammtisch Dortmund
+# SAP Stammtisch Dortmund
 
 ![SAP Stammtisch Dortmund](img/Stammtisch_Dortmund_Logo_wiki.jpg)
 
+## Willkommen zu den öffentlichen Ressourcen vom SAP Stammtisch Dortmund
+
 Treffen der SAP Community aus Dortmund und Umgebung
-
-### UPDATE
-
-In der aktuellen Situation findet der SAP Stammtisch virtuell statt!
-
-### SAP Stammtisch Dortmund
 
 Der SAP Stammtisch Dortmund ist ein regelmäßiges Treffen der lokalen SAP Community.  
 Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen.  
@@ -16,30 +12,29 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
-### Aktuelles - Nächstes Treffen
+### UPDATE
+
+In der aktuellen Situation findet der SAP Stammtisch virtuell statt!
+
+## Aktuelles - Nächstes Treffen
 
 Zusammen mit dem [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz)  
 
-> Thema:  
-  Buchvorstellung:  
-  Jörg Brandeis - [SQLScript für SAP HANA](https://www.rheinwerk-verlag.de/sqlscript-fuer-sap-hana/)  
-  [Twitter](https://twitter.com/joerg_brandeis)
-
-> Termin: Dienstag, **14.12.2021 20h**  
-  [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)  
-  Meeting-ID: 9218 525 2407  
-  Kenncode: ddic
+> Termin: tbd  
+  [Link zur Zoom Session](https://us02web.zoom.us/)  
+  Meeting-ID:  
+  Kenncode:  
 
 [Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
 [Anmeldung über SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
 
-### SAP Inside Track
+## SAP Inside Track
 
 Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ruhrpott](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+June+6th+2020%2C+%23sitPOTT+-+CANCELLED) und sind auch mit dabei
 
 ## Ressourcen-Archiv
 
-#### SAP Inside Track 2019
+### SAP Inside Track 2019
 
 - Samstag, 25.05.2019 SAP Inside Track RuhrPOTT in Essen  
   Präsentationen: SAP SCN Wiki Seite [SAP Inside Track RuhrPOTT #sitPOTT](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+May+25th+2019%2C+%23sitPOTT)  
@@ -48,6 +43,8 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 ### Archiv Bisherige Stammtisch Treffen
 
 #### 2021
+
+- Dienstag, 14.12.2021 ab 20 Uhr (virtuell)
 - Mittwoch, 10.11.2021 ab 20 Uhr (virtuell)
 - Mittwoch, 13.10.2021 ab 20 Uhr (virtuell)
 - Dienstag, 20.07.2021 ab 20 Uhr (virtuell)
@@ -58,6 +55,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 - Mittwoch, 10.02.2021 ab 20 Uhr (virtuell)
 
 #### 2020
+
 - Mittwoch, 25.11.2020 ab 20 Uhr (virtuell)
 - Dienstag, 27.10.2020 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz))
 - Dienstag, 22.09.2020 ab 19h (Hövels Brauerei)
@@ -69,6 +67,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 - Dienstag, 14.01.2020 ab 19h (Hövels Brauerei)
 
 #### 2019
+
 - Mittwoch, 11.12.2019 ab 19h
 - Dienstag, 12.11.2019 ab 19h
 - Mittwoch, 16.10.2019 ab 19h
@@ -81,6 +80,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 - Dienstag, 19.01.2019 ab 19h
 
 #### 2018
+
 - Mittwoch, 13.12.2018 ab 19h
 - Dienstag, 13.11.2018 ab 19h
 - Mittwoch, 19.09.2018 ab 19h
@@ -93,6 +93,7 @@ Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ru
 - Dienstag, 16.01.2018 ab 19h
 
 #### 2017
+
 - Dienstag, 12.12.2017 ab 19h
 - Dienstag, 17.11.2017 ab 19h
 - Dienstag, 10.10.2017 ab 19h
