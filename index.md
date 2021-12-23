@@ -2,9 +2,9 @@
 
 ![SAP Stammtisch Dortmund](img/Stammtisch_Dortmund_Logo_wiki.jpg)
 
-## Willkommen zu den öffentlichen Ressourcen vom SAP Stammtisch Dortmund
+## SAP Stammtisch Dortmund - <br>Willkommen zu den öffentlichen Ressourcen
 
-Treffen der SAP Community aus Dortmund und Umgebung
+### Treffen der SAP Community aus Dortmund und Umgebung
 
 Der SAP Stammtisch Dortmund ist ein regelmäßiges Treffen der lokalen SAP Community.  
 Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen.  
@@ -18,27 +18,39 @@ In der aktuellen Situation findet der SAP Stammtisch virtuell statt!
 
 ## Aktuelles - Nächstes Treffen
 
-Zusammen mit dem [SAP Stammtisch Bern](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz)  
-
 > Termin: tbd  
   [Link zur Zoom Session](https://us02web.zoom.us/)  
   Meeting-ID:  
   Kenncode:  
 
-[Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
-[Anmeldung über SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
+## Anmeldung
 
-## SAP Inside Track
+- [Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
+- Anmeldung  über eine kurze Nachricht an  
+  [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com)  
+  oder per Twitter eine PN an  
+  [ddevx](https://twitter.com/ddevx) oder [SBasisCheck](https://twitter.com/SBasisCheck/)
+- [Anmeldung über SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
 
-Event gecancelt: Samstag, 06.06.2020, wir unterstützen den [SAP Inside Track Ruhrpott](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+June+6th+2020%2C+%23sitPOTT+-+CANCELLED) und sind auch mit dabei
+## SAP Inside Track RuhrPOTT #sitPOTT
+
+Ein SAP Inside Track (SIT) ist eine lokale Veranstaltung, bei der sich Mitglieder der SAP-Community treffen, um Wissen über SAP-bezogene Themen auszutauschen. Die Veranstaltung lebt von dem Austausch der Community, wird von ihr organisiert, ist kostengünstig, oft gesponsert oder sogar kostenlos und sehr informell. Jeder, der Interesse hat, kann daran teilnehmen.
+
+> Event gecancelt: Samstag, 06.06.2020
+
+wir unterstützen den  
+[SAP Inside Track Ruhrpott](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+June+6th+2020%2C+%23sitPOTT+-+CANCELLED)  
+und sind auch mit dabei
 
 ## Ressourcen-Archiv
 
-### SAP Inside Track 2019
+### Archiv SAP Inside Track sitPOTT
 
 - Samstag, 25.05.2019 SAP Inside Track RuhrPOTT in Essen  
-  Präsentationen: SAP SCN Wiki Seite [SAP Inside Track RuhrPOTT #sitPOTT](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+May+25th+2019%2C+%23sitPOTT)  
-  Live Recordings: YouTube Channel [SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)
+  Präsentationen: SAP SCN Wiki Seite  
+  [SAP Inside Track RuhrPOTT #sitPOTT](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+May+25th+2019%2C+%23sitPOTT)  
+  Live Recordings: YouTube Channel  
+  [SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)
 
 ### Archiv Bisherige Stammtisch Treffen
 
