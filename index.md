@@ -12,18 +12,29 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
-### UPDATE
+### UPDATE 2022
 
-In der aktuellen Situation findet der SAP Stammtisch virtuell statt!
+In der aktuellen Situation findet der SAP Stammtisch virtuell statt!  
+Wir werden ab März 2022 neben den virtuellen Treffen auch wieder vor Ort Termine durchführen
 
-## Aktuelles - Nächstes Treffen
+## Aktuelles - Nächstes virtuelles Treffen
 
-> Termin: tbd  
-  [Link zur Zoom Session](https://us02web.zoom.us/)  
-  Meeting-ID:  
-  Kenncode:  
+> Termin: 22.03.2022 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
+  [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09/)  
+  Meeting-ID: 92185252407  
+  Kenncode: ddic
+
+## Aktuelles - Nächstes vor Ort Treffen
+
+> Termin: 23.03.2022  
+  Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
+  Hoher Wall 5-7  
+  44135 Dortmund  
+  [Route](https://www.google.de/maps/dir//H%C3%96VELS+Hausbrauerei,+Hoher+Wall,+Dortmund/@51.5124745,7.4240223,13z/data=!3m1!5s0x47b919e12d5f025d:0x7edf0a3a3f00b3e0!4m8!4m7!1m0!1m5!1m1!1s0x47b919e728aabbaf:0xd525f834865885a0!2m2!1d7.4590415!2d51.5124263?hl=de)
 
 ## Anmeldung
+
+Sowohl zu den virtuellen wie auch den vor Ort Treffen:
 
 - [Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
 - Anmeldung  über eine kurze Nachricht an  
