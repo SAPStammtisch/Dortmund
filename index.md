@@ -41,7 +41,6 @@ Sowohl zu den virtuellen wie auch den vor Ort Treffen:
   [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com)  
   oder per Twitter eine PN an  
   [ddevx](https://twitter.com/ddevx) oder [SBasisCheck](https://twitter.com/SBasisCheck/)
-- [Anmeldung über SAP Community SCN Webseite](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Dortmund)
 
 ## SAP Inside Track RuhrPOTT #sitPOTT
 
