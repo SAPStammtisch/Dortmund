@@ -19,14 +19,16 @@ Wir werden ab März 2022 neben den virtuellen Treffen auch wieder vor Ort Termin
 
 ## Aktuelles - Nächstes virtuelles Treffen
 
-> Termin: 22.03.2022 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
+## <span style="color:red">**Jubiläums-Stammtisch Nr. 50**<span>
+
+> Termin: 26.04.2022 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09/)  
   Meeting-ID: 9218 5252 407  
   Kenncode: ddic
 
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: 23.03.2022 19h  
+> Termin: 27.04.2022 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -36,10 +38,12 @@ Wir werden ab März 2022 neben den virtuellen Treffen auch wieder vor Ort Termin
 
 Sowohl zu den virtuellen wie auch den vor Ort Treffen:
 
-- [Anmeldung über Xing Gruppe SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
-- Anmeldung  über eine kurze Nachricht an  
+Anmeldung über
+
+- Xing Gruppe [SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
+- Mail-Nachricht an  
   [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com)  
-  oder per Twitter eine PN an  
+- oder per Twitter eine PN an  
   [ddevx](https://twitter.com/ddevx) oder [SBasisCheck](https://twitter.com/SBasisCheck/)
 
 ## SAP Inside Track RuhrPOTT #sitPOTT
@@ -63,6 +67,11 @@ und sind auch mit dabei
   [SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)
 
 ### Archiv Bisherige Stammtisch Treffen
+
+#### 2022
+
+- Mittwoch, 23.03.2022 ab 19 Uhr (Hövels Brauerei)
+- Dienstag, 22.03.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 
 #### 2021
 
