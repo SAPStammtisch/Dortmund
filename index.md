@@ -19,9 +19,7 @@ Wir werden ab März 2022 neben den virtuellen Treffen auch wieder vor Ort Termin
 
 ## Aktuelles - Nächstes virtuelles Treffen
 
-## <span style="color:red">**Jubiläums-Stammtisch Nr. 50**<span>
-
-> Termin: 26.04.2022 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
+> Termin: 17.05.2022 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09/)  
   Meeting-ID: 9218 5252 407  
   Kenncode: ddic
@@ -70,6 +68,7 @@ und sind auch mit dabei
 
 #### 2022
 
+- Dienstag, 26.04.2022 ab 19 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))</br><span style="color:red">**Jubiläums-Stammtisch Nr. 50**<span>
 - Mittwoch, 23.03.2022 ab 19 Uhr (Hövels Brauerei)
 - Dienstag, 22.03.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 
