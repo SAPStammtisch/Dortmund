@@ -60,7 +60,7 @@ und sind auch mit dabei
 
 - Samstag, 25.05.2019 SAP Inside Track RuhrPOTT in Essen  
   Präsentationen: SAP SCN Wiki Seite  
-  [SAP Inside Track RuhrPOTT #sitPOTT](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+May+25th+2019%2C+%23sitPOTT)  
+  [SAP Inside Track RuhrPOTT #sitPOTT](2019-sitPOTT.md)  
   Live Recordings: YouTube Channel  
   [SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)
 
