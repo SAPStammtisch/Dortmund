@@ -68,7 +68,7 @@ und sind auch mit dabei
 
 #### 2022
 
-- Dienstag, 26.04.2022 ab 19 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))</br><span style="color:red">**Jubiläums-Stammtisch Nr. 50**<span>
+- Dienstag, 26.04.2022 ab 19 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))<br><span style="color:red">**Jubiläums-Stammtisch Nr. 50**<span>
 - Mittwoch, 23.03.2022 ab 19 Uhr (Hövels Brauerei)
 - Dienstag, 22.03.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 
