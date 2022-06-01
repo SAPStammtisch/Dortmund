@@ -135,3 +135,6 @@ und sind auch mit dabei
 - Mittwoch, 14.06.2017 ab 19h
 - Mittwoch, 10.05.2017 ab 19h
 - Mittwoch, 12.04.2017 ab 19h
+
+---
+last modified: 02.06.2022 [sbasischeck](https://github.com/sbasischeck)
