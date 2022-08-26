@@ -19,14 +19,14 @@ Wir werden ab März 2022 neben den virtuellen Treffen auch wieder vor Ort Termin
 
 ## Aktuelles - Nächstes virtuelles Treffen
 
-> Termin: 23.08.2022 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
+> Termin: 20.09.2022 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09/)  
   Meeting-ID: 9218 5252 407  
   Kenncode: ddic
 
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: 17.08.2022 19h  
+> Termin: 28.09.2022 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -68,6 +68,8 @@ und sind auch mit dabei
 
 #### 2022
 
+- Dienstag, 23.08.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
+- Mittwoch, 17.08.2022 ab 19 Uhr (Hövels Brauerei)
 - Dienstag, 24.05.2022 ab 19 Uhr (Hövels Brauerei)
 - Dienstag, 17.05.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 - Dienstag, 26.04.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))<br><span style="color:red">**Jubiläums-Stammtisch Nr. 50**<span>
