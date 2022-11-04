@@ -28,7 +28,7 @@ Wir werden ab März 2022 neben den virtuellen Treffen auch wieder vor Ort Termin
 
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: 22.11.2022 19h  
+> Termin: Mittwoch, 23.11.2022 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
