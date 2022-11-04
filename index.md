@@ -19,14 +19,16 @@ Wir werden ab März 2022 neben den virtuellen Treffen auch wieder vor Ort Termin
 
 ## Aktuelles - Nächstes virtuelles Treffen
 
-> Termin: 25.10.2022 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
-  [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09/)  
-  Meeting-ID: 9218 5252 407  
-  Kenncode: ddic
+### SAP TechEd Special: #SAPStammtischTechEdWorkspace
+
+> Termin: 15./16.11.2022 ab 18h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
+  [Link zur Zoom Session](https://us02web.zoom.us/j/89250312936)  
+  Meeting-ID: 892 5031 2936  
+  Kenncode:
 
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: 19.10.2022 19h  
+> Termin: 22.11.2022 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -68,6 +70,8 @@ und sind auch mit dabei
 
 #### 2022
 
+- Dienstag, 25.10.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
+- Mittwoch, 19.10.2022 ab 19 Uhr (Hövels Brauerei)
 - Mittwoch, 28.09.2022 ab 19 Uhr (Hövels Brauerei)
 - Dienstag, 20.09.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 - Dienstag, 23.08.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
@@ -141,4 +145,4 @@ und sind auch mit dabei
 - Mittwoch, 12.04.2017 ab 19h
 
 ---
-last modified: 02.06.2022 [sbasischeck](https://github.com/sbasischeck)
+last modified: 26.10.2022 [sbasischeck](https://github.com/sbasischeck)
