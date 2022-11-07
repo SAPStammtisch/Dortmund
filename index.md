@@ -12,11 +12,14 @@ Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mitt
 
 Als Ort haben wir uns die Hövels Brauerei ausgewählt, direkt neben der Thiergalerie.
 
+Während der Corona Zeit findet der SAP Stammtisch virtuell statt!
+
+Wir haben uns dazu entschlossen, dass seit März 2022 neben den virtuellen Treffen auch wieder vor Ort Termine durchzuführen.
+
 ### UPDATE 2022
 
-In der aktuellen Situation findet der SAP Stammtisch virtuell statt!  
-Wir werden ab März 2022 neben den virtuellen Treffen auch wieder vor Ort Termine durchführen
-
+Der SAP Stammtisch Dortmund Dortmund im Fediverse
+[SAPStammtischDO](@SAPStammtischDO@saptodon.org)
 ## Aktuelles - Nächstes virtuelles Treffen
 
 ### SAP TechEd Special: #SAPStammtischTechEdWorkspace
@@ -43,9 +46,10 @@ Anmeldung über
 - Xing Gruppe [SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
 - Mail-Nachricht an  
   [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com)  
-- oder per Twitter eine PN an  
+- per Twitter eine PN an  
   [ddevx](https://twitter.com/ddevx) oder [SBasisCheck](https://twitter.com/SBasisCheck/)
-
+- per Fediverse eine DM an  
+  [SAPStammtischDO](@SAPStammtischDO@saptodon.org)
 ## SAP Inside Track RuhrPOTT #sitPOTT
 
 Ein SAP Inside Track (SIT) ist eine lokale Veranstaltung, bei der sich Mitglieder der SAP-Community treffen, um Wissen über SAP-bezogene Themen auszutauschen. Die Veranstaltung lebt von dem Austausch der Community, wird von ihr organisiert, ist kostengünstig, oft gesponsert oder sogar kostenlos und sehr informell. Jeder, der Interesse hat, kann daran teilnehmen.
