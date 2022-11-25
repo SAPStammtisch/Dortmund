@@ -20,18 +20,17 @@ Wir haben uns dazu entschlossen, dass seit März 2022 neben den virtuellen Treff
 
 Der SAP Stammtisch Dortmund Dortmund im Fediverse
 [SAPStammtischDO](@SAPStammtischDO@saptodon.org)
+
 ## Aktuelles - Nächstes virtuelles Treffen
 
-### SAP TechEd Special: #SAPStammtischTechEdWorkspace
-
-> Termin: 15./16.11.2022 ab 18h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
-  [Link zur Zoom Session](https://us02web.zoom.us/j/89250312936)  
-  Meeting-ID: 892 5031 2936  
-  Kenncode:
+> Termin: Dienstag, 19.12.2022 ab 20h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
+  [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09/)  
+  Meeting-ID: 9218 5252 407  
+  Kenncode: ddic
 
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: Mittwoch, 23.11.2022 19h  
+> Termin: Mittwoch, 14.12.2022 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -43,13 +42,13 @@ Sowohl zu den virtuellen wie auch den vor Ort Treffen:
 
 Anmeldung über
 
-- Xing Gruppe [SAP Stammtisch Dortmund](https://www.xing.com/communities/groups/sap-stammtisch-dortmund-1095503)  
 - Mail-Nachricht an  
   [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com)  
 - per Twitter eine PN an  
   [ddevx](https://twitter.com/ddevx) oder [SBasisCheck](https://twitter.com/SBasisCheck/)
 - per Fediverse eine DM an  
   [SAPStammtischDO](@SAPStammtischDO@saptodon.org)
+
 ## SAP Inside Track RuhrPOTT #sitPOTT
 
 Ein SAP Inside Track (SIT) ist eine lokale Veranstaltung, bei der sich Mitglieder der SAP-Community treffen, um Wissen über SAP-bezogene Themen auszutauschen. Die Veranstaltung lebt von dem Austausch der Community, wird von ihr organisiert, ist kostengünstig, oft gesponsert oder sogar kostenlos und sehr informell. Jeder, der Interesse hat, kann daran teilnehmen.
@@ -74,6 +73,7 @@ und sind auch mit dabei
 
 #### 2022
 
+- SAP TechEd Special: #SAPStammtischTechEdWorkspace 15./16.11.2022 ab 18h zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 - Dienstag, 25.10.2022 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 - Mittwoch, 19.10.2022 ab 19 Uhr (Hövels Brauerei)
 - Mittwoch, 28.09.2022 ab 19 Uhr (Hövels Brauerei)
