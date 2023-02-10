@@ -72,7 +72,7 @@ und sind auch mit dabei
 
 ### Archiv Bisherige Stammtisch Treffen
 
-### 2023
+#### 2023
 
 - Dienstag, 24.01.2023 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 
