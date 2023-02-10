@@ -23,7 +23,7 @@ Der SAP Stammtisch Dortmund Dortmund im Fediverse
 
 ## Aktuelles - Nächstes virtuelles Treffen
 
-> Termin: Dienstag, 24.01.2023 ab 20h  
+> Termin: Dienstag, 21.02.2023 ab 20h  
 zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09/)  
   Meeting-ID: 9218 5252 407  
@@ -31,7 +31,7 @@ zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: Mittwoch, 25.01.2023 19h  
+> Termin: tbd 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -71,6 +71,10 @@ und sind auch mit dabei
   [SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)
 
 ### Archiv Bisherige Stammtisch Treffen
+
+### 2023
+
+- Dienstag, 24.01.2023 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 
 #### 2022
 
