@@ -23,7 +23,7 @@ Der SAP Stammtisch Dortmund Dortmund im Fediverse
 
 ## Aktuelles - Nächstes virtuelles Treffen
 
-> Termin: Dienstag, 21.02.2023 ab 20h  
+> Termin: Dienstag, 21.03.2023 ab 19h  
 zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)  
   [Link zur Zoom Session](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09/)  
   Meeting-ID: 9218 5252 407  
@@ -74,6 +74,8 @@ und sind auch mit dabei
 
 #### 2023
 
+- Dienstag, 21.02.2023 ab 20h  
+zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 - Dienstag, 24.01.2023 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 
 #### 2022
