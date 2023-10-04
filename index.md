@@ -33,7 +33,7 @@ zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 -->
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: Mittwoch, 16.08.2023 19h  
+> Termin: Mittwoch, 18.10.2023 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -76,6 +76,7 @@ und sind auch mit dabei
 
 #### 2023
 
+- Mittwoch, 16.08.2023 19 Uhr (Hövels Brauerei)
 - Mittwoch, 24.05.2023 19 Uhr (Hövels Brauerei)
 - Dienstag, 21.02.2023 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
 - Dienstag, 24.01.2023 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
