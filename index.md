@@ -2,7 +2,7 @@
 
 ![SAP Stammtisch Dortmund](img/Stammtisch_Dortmund_Logo_wiki.jpg)
 
-## SAP Stammtisch Dortmund - <br>Willkommen zu den öffentlichen Ressourcen
+## SAP Stammtisch Dortmund - <br> Willkommen zu den öffentlichen Ressourcen
 
 ### Treffen der SAP Community aus Dortmund und Umgebung
 
@@ -33,7 +33,7 @@ zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 -->
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: Mittwoch, 18.10.2023 19h  
+> Termin: Dienstag, 05.03.2024 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -48,7 +48,7 @@ Anmeldung über
 - Mail-Nachricht an  
   [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com)  
 - per Twitter eine PN an  
-  [ddevx](https://twitter.com/ddevx) oder [SBasisCheck](https://twitter.com/SBasisCheck/)
+  [Fabian_Lupa](https://twitter.com/fabian_lupa), [ddevx](https://twitter.com/ddevx) oder [SBasisCheck](https://twitter.com/SBasisCheck/)
 - per Fediverse eine DM an  
   [SAPStammtischDO](@SAPStammtischDO@saptodon.org)
 
@@ -76,6 +76,7 @@ und sind auch mit dabei
 
 #### 2023
 
+- Mittwoch, 18.10.2023 19 Uhr (Hövels Brauerei)
 - Mittwoch, 16.08.2023 19 Uhr (Hövels Brauerei)
 - Mittwoch, 24.05.2023 19 Uhr (Hövels Brauerei)
 - Dienstag, 21.02.2023 ab 20 Uhr (virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/))
