@@ -33,7 +33,7 @@ zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 -->
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: Dienstag, 05.03.2024 19h  
+> Termin: Dienstag, 02.04.2024 19h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -73,6 +73,10 @@ und sind auch mit dabei
   [SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)
 
 ### Archiv Bisherige Stammtisch Treffen
+
+#### 2024
+
+- Dienstag, 05.03.2024 19 Uhr (Hövels Brauerei)
 
 #### 2023
 
