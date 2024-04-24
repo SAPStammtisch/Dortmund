@@ -1,4 +1,4 @@
-# SAP Community Meetup Dortmund / SAP Stammtisch Dortmund
+# SAP Community Meetup Dortmund /<br> SAP Stammtisch Dortmund
 
 ![SAP Stammtisch Dortmund](img/Stammtisch_Dortmund_Logo_wiki.jpg)
 
