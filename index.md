@@ -33,7 +33,7 @@ zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 -->
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: Dienstag, 28.05.2024 18h  
+> Termin: Donerstag, 11.07.2024 18:30h  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -45,6 +45,7 @@ Sowohl zu den virtuellen wie auch den vor Ort Treffen:
 
 Anmeldung über
 
+- SAP Communiy Meetup Dortmund<br> [SAP Community Group Dortmund](https://community.sap.com/t5/dortmund/gh-p/dortmund)
 - Mail-Nachricht an  
   [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com)  
 - per Twitter eine PN an  
@@ -76,6 +77,7 @@ und sind auch mit dabei
 
 #### 2024
 
+- Dienstag, 28.05.2024 18 Uhr (Hövels Brauerei)
 - Dienstag, 09.04.2024 19 Uhr (Hövels Brauerei)
 - Dienstag, 05.03.2024 19 Uhr (Hövels Brauerei)
 
