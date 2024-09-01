@@ -33,11 +33,12 @@ zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 -->
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: Donerstag, 11.07.2024 18:30h  
-  Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
-  Hoher Wall 5-7  
-  44135 Dortmund  
-  [Route](https://www.google.de/maps/dir//H%C3%96VELS+Hausbrauerei,+Hoher+Wall,+Dortmund/@51.5124745,7.4240223,13z/data=!3m1!5s0x47b919e12d5f025d:0x7edf0a3a3f00b3e0!4m8!4m7!1m0!1m5!1m1!1s0x47b919e728aabbaf:0xd525f834865885a0!2m2!1d7.4590415!2d51.5124263?hl=de)
+> Termin: Donnerstag, 05.09.2024 18:30h  
+  __Achtung Ortswechsel__  
+  Ort: [Zum Alten Markt](https://altermarkt-dortmund.de/)  
+  Markt 3  
+  44137 Dortmund  
+  [Route](https://maps.app.goo.gl/ra5wpA4mvfuKczoFA)  
 
 ## Anmeldung
 
@@ -77,6 +78,7 @@ und sind auch mit dabei
 
 #### 2024
 
+- Donnerstag, 11.07.2024 18:30h (Hövels Brauerei)
 - Dienstag, 28.05.2024 18 Uhr (Hövels Brauerei)
 - Dienstag, 09.04.2024 19 Uhr (Hövels Brauerei)
 - Dienstag, 05.03.2024 19 Uhr (Hövels Brauerei)
