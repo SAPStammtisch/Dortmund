@@ -31,6 +31,7 @@ zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
   Meeting-ID: 9218 5252 407  
   Kenncode: ddic
 -->
+
 ## Aktuelles - Nächstes vor Ort Treffen
 
 > Termin: Donnerstag, 05.09.2024 18:30h  
