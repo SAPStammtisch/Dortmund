@@ -34,8 +34,7 @@ zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)
 
 ## Aktuelles - Nächstes vor Ort Treffen
 
-> Termin: Donnerstag, 05.09.2024 18:30h  
-  __Achtung Ortswechsel__  
+> Termin: Donnerstag, 07.11.2024 18:30h  
   Ort: [Zum Alten Markt](https://altermarkt-dortmund.de/)  
   Markt 3  
   44137 Dortmund  
@@ -79,6 +78,7 @@ und sind auch mit dabei
 
 #### 2024
 
+- Donnerstag, 05.09.2024 18:30h (Zum Alten Markt)
 - Donnerstag, 11.07.2024 18:30h (Hövels Brauerei)
 - Dienstag, 28.05.2024 18 Uhr (Hövels Brauerei)
 - Dienstag, 09.04.2024 19 Uhr (Hövels Brauerei)
