@@ -2,7 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 title: "SAP Stammtisch Dortmund"
 description: "Infos rund um den SAP Stammtisch Dortmund"
 plugins: [jekyll-include-cache]
-url: "https://sapstammtisch.github.io/Dortmund"
+url: "https://sapstammtisch.github.io"
+base_url: "/Dortmund"
 site.locale: "de-DE"
 atom_feed:
   hide: true
