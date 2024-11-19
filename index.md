@@ -155,9 +155,6 @@ und sind auch mit dabei
 | 28.05.2024 (Dienstag) | 18:00 | Hövels Brauerei |
 | 09.04.2024 (Dienstag) | 19:00 | Hövels Brauerei |
 | 05.03.2024 (Dienstag) | 19:00 | Hövels Brauerei |
-
-| Datum | Uhrzeit | Ort |
-|-------|---------|-----|
 | __2023__ | | |
 | 18.10.2023 (Mittwoch) | 19:00 | Hövels Brauerei |
 | 16.08.2023 (Mittwoch) | 19:00 | Hövels Brauerei |
@@ -165,7 +162,7 @@ und sind auch mit dabei
 | 21.02.2023 (Dienstag) | ab 20:00 | virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/) |
 | 24.01.2023 (Dienstag) | ab 20:00 | virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/) |
 | __2022__ | | |
-| 15./16.11.2022 | ab 18h | SAP TechEd Special: #SAPStammtischTechEdWorkspace zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/) |
+| 15./16.11.2022 | ab 18h | SAP TechEd Special: #SAPStammtischTechEdWorkspace<br/>zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/) |
 | 25.10.2022 (Dienstag) | ab 20:00 | virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/) |
 | 19.10.2022 (Mittwoch) | ab 19:00 | Hövels Brauerei |
 | 28.09.2022 (Mittwoch) | ab 19:00 | Hövels Brauerei |
@@ -175,7 +172,7 @@ und sind auch mit dabei
 | 24.05.2022 (Dienstag) | ab 19:00 | Hövels Brauerei |
 | 17.05.2022 (Dienstag) | ab 20:00 | virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/) |
 | 26.04.2022 (Dienstag) | ab 20:00 | virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/)<br><span style="color:red">**Jubiläums-Stammtisch Nr. 50**<span> |
-| 23.03.2022 (Mittwoch) | ab 19:00 |Hövels Brauerei) |
+| 23.03.2022 (Mittwoch) | ab 19:00 | Hövels Brauerei |
 | 22.03.2022 (Dienstag) | ab 20:00 | virtuell, zusammen mit [SAP Stammtisch Bern](https://sapstammtisch.github.io/Bern/) |
 | __2021__ | | |
 | 14.12.2021 (Dienstag) | ab 20:00 | virtuell |
