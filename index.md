@@ -85,6 +85,18 @@ social_media:
     btn_label: "Beitreten"
     btn_class: "btn--inverse"
     additional_class: "restricted_size"
+events:
+  - image_path: /img/sitPOTT.jpg
+    alt: "sitPOTT Logo"
+    title: "sitPOTT 2019"
+    url: "2019-sitPOTT"
+    excerpt: "25.05.2019 in Essen<br/>Live Recordings:<br/>[SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)<br/>Veranstaltungsinfos:<br/>[sitPOTT 2019](2019-sitPOTT) "
+    btn_label: "Details"
+  - image_path: /img/sitPOTT_sw.jpg
+    alt: "sitPOTT Logo Schwarz Weiß"
+    title: "sitPOTT 2020"
+    excerpt: "~~06.06.2020~~ *cancelled*"
+    btn_label: ""
 ---
 
 ![SAP Stammtisch Dortmund](img/Stammtisch_Dortmund_Logo_wiki.jpg)
@@ -130,19 +142,9 @@ Alternativ kannst du auch Kontakt über [sap.stammtisch@gmail.com](mailto:sap.st
 
 ## SAP Inside Track RuhrPOTT #sitPOTT
 
-Ein SAP Inside Track (SIT) ist eine lokale Veranstaltung, bei der sich Mitglieder der SAP-Community treffen, um Wissen über SAP-bezogene Themen auszutauschen. Die Veranstaltung lebt von dem Austausch der Community, wird von ihr organisiert, ist kostengünstig, oft gesponsert oder sogar kostenlos und sehr informell. Jeder, der Interesse hat, kann daran teilnehmen.
+In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vom Stammtisch Dortmund organisiert. Der Termin im Folgejahr 2020 musste leider aus bekannten Gründen abgesagt werden. Das SAP Community Wiki wurde leider seit der Veranstaltung abgeschaltet. Daher findest du die Agenda und Veranstaltungsinfos nun hier.
 
-wir unterstützen den  
-[SAP Inside Track Ruhrpott](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track+Ruhrpott%2C+June+6th+2020%2C+%23sitPOTT+-+CANCELLED)  
-und sind auch mit dabei
-
-- ~~06.06.2020 (Samstag)~~, _SAP Inside Track RuhrPOTT #sitPOTT_ *cancelled*
-
-- 25.05.2019 (Samstag),  __SAP Inside Track RuhrPOTT #sitPOTT in Essen__  
-  Präsentationen: SAP SCN Wiki Seite  
-  [SAP Inside Track RuhrPOTT #sitPOTT](2019-sitPOTT.md)  
-  Live Recordings: YouTube Channel  
-  [SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)
+{% include feature_row id="events" %}
 
 ## Archiv
 
