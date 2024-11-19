@@ -1,8 +1,59 @@
-# SAP Stammtisch Dortmund
+---
+layout: single
+title: SAP Stammtisch Dortmund
+toc: true
+toc_sticky: true
+toc_label: Inhalte
+gallery:
+  - url: /img/2024-11-07.jpg
+    image_path: /img/2024-11-07.jpg
+    alt: "Treffen 07.11.2024"
+    title: "Treffen 07.11.2024"
+  - url: /img/2024-09-05.jpg
+    image_path: /img/2024-09-05.jpg
+    alt: "Treffen 05.09.2024"
+    title: "Treffen 05.09.2024"
+organizers:
+  - image_path: /img/fabian.jpg
+    alt: "Profilbild Fabian Lupa"
+    title: "Fabian Lupa"
+    url: "https://www.linkedin.com/in/fabianlupa/"
+    btn_label: "Kontakt"
+    btn_class: "btn--inverse"
+  - image_path: /img/patrick.jpg
+    alt: "Profilbild Patrich Holdschlag"
+    title: "Patrick Holdschlag"
+    url: "ttps://www.linkedin.com/in/patrick-holdschlag-b84b42120/"
+    btn_label: "Kontakt"
+    btn_class: "btn--inverse"
+social_media:
+  - image_path: /img/linkedin.png
+    alt: "LinkedIn Logo"
+    title: "LinkedIn Gruppe"
+    url: "https://www.linkedin.com/groups/13062692/"
+    btn_label: "Beitreten"
+    btn_class: "btn--inverse"
+    additional_class: "restricted_size"
+  - image_path: /img/sap.png
+    alt: "SAP Logo"
+    title: "SAP Community Location Group Dortmund"
+    url: "https://community.sap.com/t5/dortmund/gh-p/dortmund"
+    btn_label: "Beitreten"
+    btn_class: "btn--inverse"
+    additional_class: "restricted_size"
+  - image_path: /img/signal.png
+    alt: "Signal Logo"
+    title: "Signal Gruppe"
+    url: "https://signal.group/#CjQKIHMTUrFQGkZMM77CACSMlt48KiMB7TGLYxFHVgrshm_dEhBgtdAnYTWCI4fBVAIzmDfi"
+    excerpt: "[Invite-Link](https://signal.group/#CjQKIHMTUrFQGkZMM77CACSMlt48KiMB7TGLYxFHVgrshm_dEhBgtdAnYTWCI4fBVAIzmDfi) / [QR-Code](img/SignalGroupQr.png)"
+    btn_label: "Beitreten"
+    btn_class: "btn--inverse"
+    additional_class: "restricted_size"
+---
 
 ![SAP Stammtisch Dortmund](img/Stammtisch_Dortmund_Logo_wiki.jpg)
 
-## SAP Stammtisch Dortmund /<br/>SAP Community Meetup Dortmund
+## SAP Stammtisch Dortmund / Community Meetup Dortmund
 
 _Treffen der lokalen SAP Community aus Dortmund und Umgebung_
 
@@ -12,8 +63,7 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Impressionen
 
-<a href="img/2024-11-07.jpg"><img src="img/2024-11-07.jpg" height="150px" alt="Treffen 07.11.2024"></a>
-<a href="img/2024-09-05.jpg"><img src="img/2024-09-05.jpg" height="150px" alt="Treffen 05.09.2024"></a>
+{% include gallery %}
 
 ## Nächstes Treffen
 
@@ -34,16 +84,13 @@ Spontane Teilnahmen sind natürlich auch gerne gesehen!
 
 Der Stammtisch wird von Fabian und Patrick organisiert. Melde dich bei Fragen oder sonstigen Anliegen gerne bei uns.
 
-| <img src="img/fabian.jpg" width="120px" alt="Fabian"> | <img src="img/patrick.jpg" width="120px" alt="Patrick"> |
-| :-: | :-: |
-| [Fabian Lupa](https://www.linkedin.com/in/fabianlupa/) | [Patrick Holdschlag](https://www.linkedin.com/in/patrick-holdschlag-b84b42120/) |
+{% include feature_row id="organizers" %}
 
 Alternativ kannst du auch Kontakt über [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com) aufnehmen.
 
 ## SAP Stammtisch Dortmund auf Social Media
 
-| <a href="https://www.linkedin.com/groups/13062692/" alt="LinkedIn"><img src="img/linkedin.png" alt="LinkedIn Logo" width="50px"></a><br/><a href="https://www.linkedin.com/groups/13062692/">LinkedIn Gruppe</a> | <a href="https://community.sap.com/t5/dortmund/gh-p/dortmund" alt="SAP Community Location Group Dortmund"><img src="img/sap.png" alt="SAP Logo" width="80px"></a><br/><a href="https://community.sap.com/t5/dortmund/gh-p/dortmund">SAP Community<br/>Location Group Dortmund</a> | <img src="img/signal.png" alt="Signal Logo" width="50px"><br/>Signal Gruppe</br>[Invite-Link](https://signal.group/#CjQKIHMTUrFQGkZMM77CACSMlt48KiMB7TGLYxFHVgrshm_dEhBgtdAnYTWCI4fBVAIzmDfi) / [QR-Code](img/SignalGroupQr.png) |
-| :-: | :-: | :-: |
+{% include feature_row id="social_media" %}
 
 ## SAP Inside Track RuhrPOTT #sitPOTT
 
@@ -73,9 +120,6 @@ und sind auch mit dabei
 | 09.04.2024 (Dienstag) | 19:00 | Hövels Brauerei |
 | 05.03.2024 (Dienstag) | 19:00 | Hövels Brauerei |
 
-<details>
-  <summary>2017 bis 2023</summary>
-  
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2023__ | | |
@@ -149,5 +193,3 @@ und sind auch mit dabei
 | 14.06.2017 (Mittwoch) | ab 19:00 | |
 | 10.05.2017 (Mittwoch) | ab 19:00 | |
 | 12.04.2017 (Mittwoch) | ab 19:00 | |
-
-</details>
