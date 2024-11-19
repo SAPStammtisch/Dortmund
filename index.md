@@ -13,6 +13,42 @@ gallery:
     image_path: /img/2024-09-05.jpg
     alt: "Treffen 05.09.2024"
     title: "Treffen 05.09.2024"
+  - url: /img/2023-05-24.jpg
+    image_path: /img/2023-05-24.jpg
+    alt: "Treffen 24.05.2023"
+    title: "Treffen 24.05.2023"
+  - url: /img/2022-10-19.jpg
+    image_path: /img/2022-10-19.jpg
+    alt: "Treffen 19.10.2022"
+    title: "Treffen 19.10.2022"
+  - url: /img/2020-03-10.jpg
+    image_path: /img/2020-03-10.jpg
+    alt: "Treffen 10.03.2020"
+    title: "Treffen 10.03.2020"
+  - url: /img/2020-02-19.jpg
+    image_path: /img/2020-02-19.jpg
+    alt: "Treffen 19.02.2020"
+    title: "Treffen 19.02.2020"
+  - url: /img/2019-12-11.jpg
+    image_path: /img/2019-12-11.jpg
+    alt: "Treffen 11.12.2019"
+    title: "Treffen 11.12.2019"
+  - url: /img/2019-11-13.jpg
+    image_path: /img/2019-11-13.jpg
+    alt: "Treffen 13.11.2019"
+    title: "Treffen 13.11.2019"
+  - url: /img/2019-10-16.jpg
+    image_path: /img/2019-10-16.jpg
+    alt: "Treffen 16.10.2019"
+    title: "Treffen 16.10.2019"
+  - url: /img/2017-05-10.jpg
+    image_path: /img/2017-05-10.jpg
+    alt: "Treffen 10.05.2017"
+    title: "Treffen 10.05.2017"
+  - url: /img/2017-04-12.jpg
+    image_path: /img/2017-04-12.jpg
+    alt: "Treffen 12.04.2017"
+    title: "Treffen 12.04.2017"
 organizers:
   - image_path: /img/fabian.jpg
     alt: "Profilbild Fabian Lupa"
@@ -63,7 +99,7 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Impressionen
 
-{% include gallery %}
+{% include gallery layout="quarter" %}
 
 ## Nächstes Treffen
 

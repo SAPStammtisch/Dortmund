@@ -45,3 +45,18 @@ article.page {
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+figure {
+    &.quarter {
+        > a,
+        > img {
+            @include breakpoint($small) {
+                width: calc(25% - 0.5em);
+            }
+        }
+
+        figcaption {
+            width: 100%;
+        }
+    }
+}
