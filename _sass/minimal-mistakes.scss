@@ -50,7 +50,8 @@ figure {
     &.quarter {
         > a,
         > img {
-            @include breakpoint($small) {
+            width: calc(50% - 0.5em);
+            @include breakpoint($medium) {
                 width: calc(25% - 0.5em);
             }
         }
