@@ -21,9 +21,9 @@ organizers:
     btn_label: "Kontakt"
     btn_class: "btn--inverse"
   - image_path: /img/patrick.jpg
-    alt: "Profilbild Patrich Holdschlag"
+    alt: "Profilbild Patrick Holdschlag"
     title: "Patrick Holdschlag"
-    url: "ttps://www.linkedin.com/in/patrick-holdschlag-b84b42120/"
+    url: "https://www.linkedin.com/in/patrick-holdschlag-b84b42120/"
     btn_label: "Kontakt"
     btn_class: "btn--inverse"
 social_media:
