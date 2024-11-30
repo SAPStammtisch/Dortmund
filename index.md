@@ -105,6 +105,8 @@ events:
 
 _Treffen der lokalen SAP Community aus Dortmund und Umgebung_
 
+[Zum nächsten Treffen 👇](#nächstes-treffen){: .btn .btn--info }
+
 Der SAP Stammtisch Dortmund ist ein regelmäßiges informelles Treffen der lokalen SAP Community. Eingeladen ist jeder, der Lust und Zeit hat, unabhängig vom fachlichen Hintergrund, von Entwickler, Berater, Projekt Manager, Basis Administrator bis hin zum Endanwender.
 
 Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über Unternehmensgrenzen hinweg.
