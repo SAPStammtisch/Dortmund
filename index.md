@@ -138,6 +138,20 @@ Der Stammtisch wird von Fabian und Patrick organisiert. Melde dich bei Fragen od
 
 Alternativ kannst du auch Kontakt über [sap.stammtisch@gmail.com](mailto:sap.stammtisch@gmail.com) aufnehmen.
 
+<div class="notice--danger thx">
+<div>
+Ein herzlicher Dank geht an Roland Knipp und Dominik Di Lorenzo, welche den Stammtisch Dortmund in 2017 ins Leben gerufen und vorangetrieben haben. Initial handelte es sich um eine kleine gesellige Runde in einer Brauerei. Doch immer mehr wurde es zum Anziehungspunkt von SAP-Enthusiasten.
+</div>
+<div class="notice-icon"><span class="fa fa-heart"></span></div>
+</div>
+
+## Anreise
+
+{: .notice--info }
+__Parken__  
+Solltest du mit dem Auto anreisen, achte bei Parkhäusern auf die Öffnungszeiten. Die Ausfahrt beim Thier-Galerie-Parkhaus ist beispielsweise nur bis 20:30 Uhr möglich.  
+In der Poststraße und Umgebung gibt es Parkuhren, die nur bis 19 Uhr kostenpflichtig sind.
+
 ## SAP Stammtisch Dortmund auf Social Media
 
 {% include feature_row id="social_media" %}

@@ -1,8 +1,10 @@
+/* Use all space on the left as no profile sidebar is used */
 article.page {
     float: left;
     width: 100%;
 }
 
+/* Additional class for social icons to not take up as much space */
 .restricted_size img {
     width: auto !important;
     max-height: 100px;
@@ -13,6 +15,8 @@ article.page {
 
 /* Variables */
 @import "minimal-mistakes/variables";
+
+$caption-font-family: $sans-serif;
 
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
@@ -46,6 +50,7 @@ article.page {
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
+/* Additional quarter layout */
 figure {
     &.quarter {
         > a,
@@ -60,4 +65,29 @@ figure {
             width: 100%;
         }
     }
+}
+
+/* Thanks notice with icon bar */
+.thx {
+    display: flex;
+    box-shadow: none !important;
+
+    div.notice-icon {
+        border-radius: 0 $border-radius $border-radius 0;
+        margin: -1em -1em -1em 0.25em;
+        padding: 0.25em;
+        align-content: center;
+        background-color: rgba(red, 0.25);
+        color: red;
+    }
+}
+
+/* Change notice font size */
+.notice,
+.notice--primary,
+.notice--info,
+.notice--warning
+.notice--success,
+.notice--danger {
+    font-size: $type-size-5 !important;
 }
