@@ -117,12 +117,11 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> __🎄Weihnachtsmarkt Edition🎄__  
-  Termin: __12.12.2024, 18:30 Uhr__  
-  Ort: Treffpunkt an der [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
-  Hoher Wall 5-7  
+> Termin: __13.02.2025, 18:30 Uhr__  
+  Ort: [WENKERS am Markt](https://wenkers.de/)  
+  Betenstraße 1 1  
   44135 Dortmund  
-  [Route](https://www.google.de/maps/dir//H%C3%96VELS+Hausbrauerei,+Hoher+Wall,+Dortmund/@51.5124745,7.4240223,13z/data=!3m1!5s0x47b919e12d5f025d:0x7edf0a3a3f00b3e0!4m8!4m7!1m0!1m5!1m1!1s0x47b919e728aabbaf:0xd525f834865885a0!2m2!1d7.4590415!2d51.5124263?hl=de)
+  [Route](https://maps.app.goo.gl/gY3Pyz4s4Bv3pK6LA)
 
 ## Anmeldung
 
@@ -167,6 +166,7 @@ In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vo
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2024__ | | |
+| 12.12.2024 (Donnerstag) | 18:30 | 🎄Weihnachtsmarkt Edition🎄 |
 | 07.11.2024 (Donnerstag) | 18:30 | Zum Alten Markt |
 | 05.09.2024 (Donnerstag) | 18:30 | Zum Alten Markt |
 | 11.07.2024 (Donnerstag) | 18:30 | Hövels Brauerei |
