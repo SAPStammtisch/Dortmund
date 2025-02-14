@@ -5,6 +5,14 @@ toc: true
 toc_sticky: true
 toc_label: Inhalte
 gallery:
+  - url: /img/2025-02-13_2.jpg
+    image_path: /img/2025-02-13_2.jpg
+    alt: "Treffen 13.02.2025 (2)"
+    title: "Treffen 03.02.2025 (2)"
+  - url: /img/2025-02-13_1.jpg
+    image_path: /img/2025-02-13_1.jpg
+    alt: "Treffen 13.02.2025 (1)"
+    title: "Treffen 03.02.2025 (1)"
   - url: /img/2024-11-07.jpg
     image_path: /img/2024-11-07.jpg
     alt: "Treffen 07.11.2024"
@@ -117,11 +125,8 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: __13.02.2025, 18:30 Uhr__  
-  Ort: [WENKERS am Markt](https://wenkers.de/)  
-  Betenstraße 1 1  
-  44135 Dortmund  
-  [Route](https://maps.app.goo.gl/gY3Pyz4s4Bv3pK6LA)
+> Termin: __20.03.2025, 18:30 Uhr__  
+  Ort: TBD
 
 ## Anmeldung
 
@@ -165,6 +170,8 @@ In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vo
 
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
+| __2025__ | | |
+| 13.02.2025 (Donnerstag) | 18:30 | WENKERS am Markt |
 | __2024__ | | |
 | 12.12.2024 (Donnerstag) | 18:30 | 🎄Weihnachtsmarkt Edition🎄 |
 | 07.11.2024 (Donnerstag) | 18:30 | Zum Alten Markt |
