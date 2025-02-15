@@ -9,6 +9,9 @@ article.page {
     width: auto !important;
     max-height: 130px;
 }
+.restricted_size a:not(.btn):hover img {
+    box-shadow: none !important;
+}
 
 /* Copyright comment */
 @import "minimal-mistakes/copyright";
