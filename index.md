@@ -126,7 +126,10 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 ## Nächstes Treffen
 
 > Termin: __20.03.2025, 18:30 Uhr__  
-  Ort: TBD
+  Ort: [Pfefferkorn's No.1 Am Markt](https://no1.pfefferkorn-restaurants.de/)  
+  Markt 6  
+  44137 Dortmund  
+  [Route](https://maps.app.goo.gl/1ykPA4HP7UnxDDTk8)
 
 ## Anmeldung
 
