@@ -5,6 +5,10 @@ toc: true
 toc_sticky: true
 toc_label: Inhalte
 gallery:
+  - url: /img/2025-03-20.jpg
+    image_path: /img/2025-03-20.jpg
+    alt: "Treffen 20.03.2025"
+    title: "Treffen 20.03.2025"
   - url: /img/2025-02-13_2.jpg
     image_path: /img/2025-02-13_2.jpg
     alt: "Treffen 13.02.2025 (2)"
@@ -125,11 +129,8 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: __20.03.2025, 18:30 Uhr__  
-  Ort: [Pfefferkorn's No.1 Am Markt](https://no1.pfefferkorn-restaurants.de/)  
-  Markt 6  
-  44137 Dortmund  
-  [Route](https://maps.app.goo.gl/1ykPA4HP7UnxDDTk8)
+> Termin: __07.05.2025, 18:30 Uhr__  
+  Ort: tbd
 
 ## Anmeldung
 
@@ -174,6 +175,7 @@ In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vo
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2025__ | | |
+| 20.03.2025 (Donnerstag) | 18:30 | Pfefferkorn's No.1 Am Markt |
 | 13.02.2025 (Donnerstag) | 18:30 | WENKERS am Markt |
 | __2024__ | | |
 | 12.12.2024 (Donnerstag) | 18:30 | 🎄Weihnachtsmarkt Edition🎄 |
