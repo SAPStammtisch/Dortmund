@@ -134,7 +134,10 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 ## Nächstes Treffen
 
 > Termin: __11.06.2025, 18:30 Uhr__  
-  Ort: tbd
+  Ort: [hans im glück - Dortmund Hansaplatz](https://hansimglueck-burgergrill.de/burger-restaurant/dortmund-hansaplatz/)  
+  Wißstraße 14-18  
+  44137 Dortmund  
+  [Route](https://maps.app.goo.gl/oibZnFdAApuTCijL7)
 
 ## Anmeldung
 
