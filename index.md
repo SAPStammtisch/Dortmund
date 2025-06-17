@@ -5,6 +5,10 @@ toc: true
 toc_sticky: true
 toc_label: Inhalte
 gallery:
+  - url: /img/2025-06-11.jpg
+    image_path: /img/2025-06-11.jpg
+    alt: "Treffen 11.06.2025"
+    title: "Treffen 11.06.2025"
   - url: /img/2025-05-07.jpg
     image_path: /img/2025-05-07.jpg
     alt: "Treffen 07.05.2025"
@@ -133,11 +137,8 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: __11.06.2025, 18:30 Uhr__  
-  Ort: [hans im glück - Dortmund Hansaplatz](https://hansimglueck-burgergrill.de/burger-restaurant/dortmund-hansaplatz/)  
-  Wißstraße 14-18  
-  44137 Dortmund  
-  [Route](https://maps.app.goo.gl/oibZnFdAApuTCijL7)
+> Termin: __30.07.2025, 18:30 Uhr__  
+  Ort: tbd
 
 ## Anmeldung
 
