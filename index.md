@@ -183,6 +183,7 @@ In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vo
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2025__ | | |
+| 11.06.2025 (Mittwoch) | 18:30 | hans im glück |
 | 07.05.2025 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 20.03.2025 (Donnerstag) | 18:30 | Pfefferkorn's No.1 Am Markt |
 | 13.02.2025 (Donnerstag) | 18:30 | WENKERS am Markt |
