@@ -5,6 +5,10 @@ toc: true
 toc_sticky: true
 toc_label: Inhalte
 gallery:
+  - url: /img/2025-07-30.jpg
+    image_path: /img/2025-07-30.jpg
+    alt: "Treffen 30.07.2025"
+    title: "Treffen 30.07.2025"
   - url: /img/2025-06-11.jpg
     image_path: /img/2025-06-11.jpg
     alt: "Treffen 11.06.2025"
@@ -137,11 +141,8 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: __30.07.2025, 18:30 Uhr__  
-  Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
-  Hoher Wall 5-7  
-  44135 Dortmund  
-  [Route](https://maps.app.goo.gl/uVnA9JtUXMTzDsDv6)
+> Termin: __10.09.2025, 18:30 Uhr__  
+  Ort: tbd
 
 ## Anmeldung
 
@@ -186,6 +187,7 @@ In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vo
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2025__ | | |
+| 30.07.2025 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 11.06.2025 (Mittwoch) | 18:30 | hans im glück |
 | 07.05.2025 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 20.03.2025 (Donnerstag) | 18:30 | Pfefferkorn's No.1 Am Markt |
