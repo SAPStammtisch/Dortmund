@@ -146,7 +146,10 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 ## Nächstes Treffen
 
 > Termin: __29.10.2025, 18:30 Uhr__  
-  Ort: tbd  
+  Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
+  Hoher Wall 5-7  
+  44135 Dortmund  
+  [Route](https://maps.app.goo.gl/uVnA9JtUXMTzDsDv6)
 
 ## Anmeldung
 
