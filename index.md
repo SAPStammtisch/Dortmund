@@ -149,8 +149,11 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: __03.12.2025, 18:30 Uhr__  
-  Ort: tbd
+> __🎄Weihnachtsmarkt Edition🎄__  
+  Termin: __03.12.2025, 18:30 Uhr__  
+  Ort: Treffpunkt am Pfefferkorn's No.1 am Markt  
+  Markt 6, 44137 Dortmund Dortmund  
+  [Route](https://maps.app.goo.gl/EfF6TdYE5UkKAAwW8)
 
 ## Anmeldung
 
