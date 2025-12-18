@@ -5,6 +5,10 @@ toc: true
 toc_sticky: true
 toc_label: Inhalte
 gallery:
+  - url: /img/2025-12-03.jpg
+    image_path: /img/2025-12-03.jpg
+    alt: "Treffen 03.12.2025"
+    title: "Treffen 03.12.2025"
   - url: /img/2025-10-29.jpg
     image_path: /img/2025-10-29.jpg
     alt: "Treffen 29.10.2025"
@@ -149,11 +153,7 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> __🎄Weihnachtsmarkt Edition🎄__  
-  Termin: __03.12.2025, 18:30 Uhr__  
-  Ort: Treffpunkt am Pfefferkorn's No.1 am Markt  
-  Markt 6, 44137 Dortmund Dortmund  
-  [Route](https://maps.app.goo.gl/EfF6TdYE5UkKAAwW8)
+> TBD
 
 ## Anmeldung
 
@@ -198,6 +198,7 @@ In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vo
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2025__ | | |
+| 03.12.2025 (Mittwoch) | 18:30 | 🎄Weihnachtsmarkt Edition🎄 |
 | 29.10.2025 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 10.09.2025 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 30.07.2025 (Mittwoch) | 18:30 | Hövels Brauerei |
