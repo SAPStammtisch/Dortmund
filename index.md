@@ -5,6 +5,10 @@ toc: true
 toc_sticky: true
 toc_label: Inhalte
 gallery:
+  - url: /img/2026-02-04.jpg
+    image_path: /img/2026-02-04.jpg
+    alt: "Treffen 04.02.2026"
+    title: "Treffen 04.02.2026"
   - url: /img/2025-12-03.jpg
     image_path: /img/2025-12-03.jpg
     alt: "Treffen 03.12.2025"
@@ -153,7 +157,7 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: __04.02.2026, 18:30 Uhr__  
+> Termin: __01.04.2026, 18:30 Uhr__  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -201,6 +205,8 @@ In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vo
 
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
+| __2026__ | | |
+| 04.02.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
 | __2025__ | | |
 | 03.12.2025 (Mittwoch) | 18:30 | 🎄Weihnachtsmarkt Edition🎄 |
 | 29.10.2025 (Mittwoch) | 18:30 | Hövels Brauerei |
