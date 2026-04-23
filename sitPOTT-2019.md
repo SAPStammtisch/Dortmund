@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "SAP Inside Track Ruhrpott, May 25th 2019 #sitPOTT"
+title: "SAP Inside Track Ruhrpott 2019"
 toc: true
 toc_sticky: true
 toc_label: Contents
+masthead: false
 ---
 
 ![SAP Inside Track RuhrPOTT](img/SitPott_Logo_Webseite.png)

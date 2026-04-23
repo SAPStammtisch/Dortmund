@@ -126,17 +126,25 @@ social_media:
     btn_class: "btn--inverse"
     additional_class: "restricted_size"
 events:
-  - image_path: /img/sitPOTT.jpg
-    alt: "sitPOTT Logo"
-    title: "sitPOTT 2019"
-    url: "2019-sitPOTT"
-    excerpt: "25.05.2019 in Essen<br/>Live Recordings:<br/>[SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)<br/>Veranstaltungsinfos:<br/>[sitPOTT 2019](2019-sitPOTT) "
+  - image_path: /img/sitNRW_500_square.png
+    alt: "sitNRW Logo"
+    title: "sitNRW 2026"
+    url: "sitNRW-2026"
+    excerpt: "13.06.2026 in Dortmund<br/>Veranstaltungsinfos:<br/>[sitNRW 2026](sitNRW-2026) "
     btn_label: "Details"
+    btn_class: "btn--inverse"
   - image_path: /img/sitPOTT_sw.jpg
     alt: "sitPOTT Logo Schwarz Weiß"
     title: "sitPOTT 2020"
     excerpt: "~~06.06.2020~~ *cancelled*"
     btn_label: ""
+  - image_path: /img/sitPOTT.jpg
+    alt: "sitPOTT Logo"
+    title: "sitPOTT 2019"
+    url: "sitPOTT-2019"
+    excerpt: "25.05.2019 in Essen<br/>Live Recordings:<br/>[SAP Inside Track sitPOTT](https://www.youtube.com/channel/UCuquqxaHNQhdi2cfaFcqtkw)<br/>Veranstaltungsinfos:<br/>[sitPOTT 2019](sitPOTT-2019) "
+    btn_label: "Details"
+    btn_class: "btn--inverse"
 ---
 
 ![SAP Stammtisch Dortmund](img/Stammtisch_Dortmund_Logo_wiki.jpg)
@@ -157,9 +165,18 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: tbd
+Der nächste SAP Stammtisch Dortmund findet zusammen mit dem SAP Stammtisch Köln/Düsseldorf im Rahmen des Pre-Events des [SAP Inside Track NRW 2026](./sitNRW-2026) statt.
+
+> Termin: __12.06.2026, 18:00 Uhr__  
+  Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
+  Hoher Wall 5-7  
+  44135 Dortmund  
+  [Route](https://maps.app.goo.gl/uVnA9JtUXMTzDsDv6)
 
 ## Anmeldung
+
+{: .notice--info }
+**Pre-Event sitNRW:** Du kannst dich bei der Teilnahme zum SAP Inside Track auch für den nächsten Stammtisch anmelden [Details zum Inside Track hier](./sitNRW-2026). Möchtest du nur zum Stammtisch kommen, kontaktiere [uns](#organisatoren) am besten direkt, für bessere Planbarkeit.
 
 Melde dich idealerweise im Voraus zu den Terminen an, damit wir entsprechend planen und reservieren können. Du kannst dies über die Event-Posts auf [LinkedIn](https://www.linkedin.com/groups/13062692/) oder der [SAP Community Location Group Dortmund](https://community.sap.com/t5/dortmund/gh-p/dortmund) tun oder dich einfach direkt bei einem der unter [Organisatoren](#organisatoren) verlinkten Ansprechpartnern melden.
 
@@ -191,9 +208,11 @@ In der Poststraße und Umgebung gibt es Parkuhren, die nur bis 19 Uhr kostenpfli
 
 {% include feature_row id="social_media" %}
 
-## SAP Inside Track RuhrPOTT #sitPOTT
+## SAP Inside Track
 
 In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vom Stammtisch Dortmund organisiert. Der Termin im Folgejahr 2020 musste leider aus bekannten Gründen abgesagt werden. Das SAP Community Wiki wurde leider seit der Veranstaltung abgeschaltet. Daher findest du die Agenda und Veranstaltungsinfos nun hier.
+
+In 2026 findet der spirituelle Nachfolger, der SAP Inside Track NRW, kurz sitNRW, zum ersten Mal statt, welcher vom SAP Stammtisch Dortmund und SAP Stammtisch Köln/Düsseldorf mit organisiert wird. Details findest du auch hier.
 
 {% include feature_row id="events" %}
 

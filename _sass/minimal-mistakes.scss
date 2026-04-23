@@ -9,6 +9,7 @@ article.page {
     width: auto !important;
     max-height: 130px;
 }
+
 .restricted_size a:not(.btn):hover img {
     box-shadow: none !important;
 }
@@ -56,9 +57,11 @@ $caption-font-family: $sans-serif;
 /* Additional quarter layout */
 figure {
     &.quarter {
-        > a,
-        > img {
+
+        >a,
+        >img {
             width: calc(50% - 0.5em);
+
             @include breakpoint($medium) {
                 width: calc(25% - 0.5em);
             }
@@ -89,8 +92,58 @@ figure {
 .notice,
 .notice--primary,
 .notice--info,
-.notice--warning
-.notice--success,
+.notice--warning .notice--success,
 .notice--danger {
     font-size: $type-size-5 !important;
+}
+
+.sit_organizer .feature__item {
+    margin-bottom: 2em;
+
+    float: inline-start;
+    margin-inline: 0;
+    width: span(3 of 6);
+
+    &:nth-child(2n + 1) {
+        clear: both;
+        margin-inline-start: 0;
+    }
+
+    &:nth-child(2n + 2) {
+        clear: none;
+        margin-inline-start: gutter(of 6);
+    }
+
+    @include breakpoint($small) {
+        float: inline-start;
+        margin-inline: 0;
+        width: span(3 of 12);
+
+        &:nth-child(3n + 1) {
+            clear: none;
+            margin-inline-start: 0;
+        }
+
+        &:nth-child(3n + 2) {
+            clear: none;
+            margin-inline-start: 0;
+        }
+
+        &:nth-child(3n + 3) {
+            clear: none;
+            margin-inline-start: 0;
+        }
+
+        &:nth-child(4n + 1) {
+            clear: both;
+            margin-inline-start: 0;
+        }
+
+        &:nth-child(4n + 2),
+        &:nth-child(4n + 3),
+        &:nth-child(4n + 4) {
+            clear: none;
+            margin-inline-start: gutter(of 12);
+        }
+    }
 }
