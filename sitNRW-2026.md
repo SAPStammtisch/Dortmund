@@ -7,6 +7,8 @@ footer: false
 toc: true
 toc_sticky: true
 toc_label: Contents
+header:
+  teaser: "/img/sitNRW.png"
 organizers:
   - image_path: /img/bjoern.jpg
     alt: "Profile picture of Björn Schulz"
