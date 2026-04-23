@@ -176,7 +176,7 @@ Der nächste SAP Stammtisch Dortmund findet zusammen mit dem SAP Stammtisch Köl
 ## Anmeldung
 
 {: .notice--info }
-**Pre-Event sitNRW:** Du kannst dich bei der Teilnahme zum SAP Inside Track auch für den nächsten Stammtisch anmelden [Details zum Inside Track hier](./sitNRW-2026). Möchtest du nur zum Stammtisch kommen, kontaktiere [uns](#organisatoren) am besten direkt, für bessere Planbarkeit.
+**Pre-Event sitNRW:** Du kannst dich bei der Teilnahme zum SAP Inside Track auch für den nächsten Stammtisch anmelden ([Details zum Inside Track hier](./sitNRW-2026)). Möchtest du nur zum Stammtisch kommen, kontaktiere [uns](#organisatoren) am besten direkt, für bessere Planbarkeit.
 
 Melde dich idealerweise im Voraus zu den Terminen an, damit wir entsprechend planen und reservieren können. Du kannst dies über die Event-Posts auf [LinkedIn](https://www.linkedin.com/groups/13062692/) oder der [SAP Community Location Group Dortmund](https://community.sap.com/t5/dortmund/gh-p/dortmund) tun oder dich einfach direkt bei einem der unter [Organisatoren](#organisatoren) verlinkten Ansprechpartnern melden.
 
