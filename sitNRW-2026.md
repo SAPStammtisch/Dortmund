@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "SAP Inside Track NRW 2026"
+description: "Everything you need to know about sitNRW 2026"
 masthead: false
 footer: false
 toc: true
