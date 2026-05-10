@@ -57,7 +57,7 @@ What to expect:
 <i class="fa-solid fa-money-bill-1-wave"></i> **Admission:** Free (registration required)  
 <i class="fa-solid fa-ticket"></i> **Registration:** [here](#registration)
 
-Also check out our [Code Jam](#code-jam), [pre-event](#pre-event) and [post-event](#post-event).
+Also check out our [CodeJam](#codejam), [pre-event](#pre-event) and [post-event](#post-event).
 
 ## Registration
 
@@ -88,15 +88,15 @@ Here you can register for the main event as well as the [pre-event](#pre-event) 
 
 ## Related Events
 
-### Code Jam
+### CodeJam
 
-<i class="fa-solid fa-hashtag"></i> **Topic:** to be announced  
-<i class="fa-solid fa-person-chalkboard"></i> **Instructor:** to be announced  
+<i class="fa-solid fa-hashtag"></i> **Topic:** ABAP Cloud and the ABAP RESTful Application Programming Model  
+<i class="fa-solid fa-person-chalkboard"></i> **Instructor:** Andre Fischer  
 <i class="fa-solid fa-calendar"></i> **Date:** June 12, 2026  
-<i class="fa-solid fa-alarm-clock"></i> **Time:** to be announced  
+<i class="fa-solid fa-alarm-clock"></i> **Time:** 10:00 - 16:00  
 <i class="fa-solid fa-location-dot"></i> **Location:** On-site at UNIORG Dortmund ([Lissaboner Allee 6-8, 44269 Dortmund](https://maps.app.goo.gl/S8NkU8z3uNwK3c5q8))  
-<i class="fa-solid fa-money-bill-1-wave"></i> **Admission:** Free (registration required)  
-<i class="fa-solid fa-ticket"></i> **Registration:** to be announced
+<i class="fa-solid fa-money-bill-1-wave"></i> **Admission:** Free (registration required and seats are limited)  
+<i class="fa-solid fa-ticket"></i> **Registration:** [register here](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-dortmund-germany/ev-p/14384238)
 
 ### Pre-Event
 
@@ -112,7 +112,7 @@ Here you can register for the main event as well as the [pre-event](#pre-event) 
 <i class="fa-solid fa-people-group"></i> **Event:** sitNRW 2026 Afterparty  
 <i class="fa-solid fa-calendar"></i> **Date:** June 13, 2026  
 <i class="fa-solid fa-alarm-clock"></i> **Time:** 18:00 - Open End  
-<i class="fa-solid fa-location-dot"></i> **Location:** to be announced  
+<i class="fa-solid fa-location-dot"></i> **Location:** The ASH Dortmund ([Europapl. 3, 44269 Dortmund](https://maps.app.goo.gl/DQLdoXw8dhTo6tpb6))  
 <i class="fa-solid fa-money-bill-1-wave"></i> **Admission:** Everyone pays for their own food and drinks  
 <i class="fa-solid fa-ticket"></i> **Registration:** [register as part of your sitNRW registration](#registration)
 
