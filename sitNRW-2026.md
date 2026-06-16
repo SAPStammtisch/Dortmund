@@ -71,18 +71,18 @@ Here you can register for the main event as well as the [pre-event](#pre-event) 
 | --- | --- | --- | --- |
 | 08:30 | 09:00 | Meet & Greet |  |
 | 09:00 | 09:15 | Opening | Fabian, Björn, Holger, Patrick |
-| 09:15 | 09:30 | SAP Community | Laura Schmitz |
+| 09:15 | 09:30 | SAP Community ([Slides](/assets/What%20is%20the%20SAP%20Community_SAP%20Inside%20Track%20NRW%202026.pdf)) | Laura Schmitz |
 | 09:30 | 09:50 | Business Objects in ABAP Cloud - A practical Introduction to RAP | Victor Fibechola Okpanachi |
 | 09:50 | 10:00 | Coffee & Talk |  |
-| 10:00 | 10:40 | What's new in RAP? | Andre Fischer |
+| 10:00 | 10:40 | What's new in RAP? ([Slides](/assets/What‘s%20new%20in%20RAP%20-%202605.pdf)) | Andre Fischer |
 | 10:45 | 11:25 | Building Modern CAP Applications with Best Practices & AI | Daniel Schlachter, Christian Georgi, Birgit Selbach |
 | 11:30 | 13:00 | Photo + Lunch + Networking |  |
 | 13:00 | 13:40 | Documents in Fiori Apps - HDM-ready or not | Karin Meyer |
-| 13:45 | 14:25 | AI-Powered Full-Stack Development with SAP's MCP Server for ABAP & Fiori | Sebastian Werner, Andre Fischer, Christoph Gollmick |
+| 13:45 | 14:25 | AI-Powered Full-Stack Development with SAP's MCP Server for ABAP & Fiori ([Slides](/assets/InsideNRW_13062026.pdf)) | Sebastian Werner, Andre Fischer, Christoph Gollmick |
 | 14:25 | 14:40 | Coffee & Talk |  |
-| 14:45 | 15:25 | The BTP Apps you didn't know you had: Post-Breach detection with cloud audit | Martin Pankraz |
+| 14:45 | 15:25 | The BTP Apps you didn't know you had: Post-Breach detection with cloud audit ([Slides](/assets/Sentinel-BTP-SIT-Dortmund-2026.pdf)) | Martin Pankraz |
 | 15:30 | 16:10 | Learning from migrations from SAP PO to SAP Integration Suite | Jeroen Knops |
-| 16:15 | 16:45 | Nice Template! Can We Buy It? - The Reality of Turning a SaaS solution for German Utilities into a Product | Christopher Graw |
+| 16:15 | 16:45 | Nice Template! Can We Buy It? - The Reality of Turning a SaaS solution for German Utilities into a Product ([Slides](/assets/20260613_SAP_Inside_Track_NRW.pdf)) | Christopher Graw |
 | 16:45 | 17:00 | Closing | Fabian, Björn, Holger, Patrick |
 | 18:00 | Open-End | Aftershowparty |  |
 
