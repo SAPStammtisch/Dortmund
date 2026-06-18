@@ -75,7 +75,7 @@ Here you can register for the main event as well as the [pre-event](#pre-event) 
 | 09:30 | 09:50 | Business Objects in ABAP Cloud - A practical Introduction to RAP | Victor Fibechola Okpanachi |
 | 09:50 | 10:00 | Coffee & Talk |  |
 | 10:00 | 10:40 | What's new in RAP? ([Slides](/assets/Whats-new-in-RAP-2605.pdf)) | Andre Fischer |
-| 10:45 | 11:25 | Building Modern CAP Applications with Best Practices & AI | Daniel Schlachter, Christian Georgi, Birgit Selbach |
+| 10:45 | 11:25 | Building Modern CAP Applications with Best Practices & AI ([Slides](/assets/BuildingModernCAPAplications.pdf)) | Daniel Schlachter, Christian Georgi, Birgit Selbach |
 | 11:30 | 13:00 | Photo + Lunch + Networking |  |
 | 13:00 | 13:40 | Documents in Fiori Apps - HDM-ready or not | Karin Meyer |
 | 13:45 | 14:25 | AI-Powered Full-Stack Development with SAP's MCP Server for ABAP & Fiori ([Slides](/assets/InsideNRW_13062026.pdf)) | Sebastian Werner, Andre Fischer, Christoph Gollmick |
