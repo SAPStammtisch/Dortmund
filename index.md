@@ -165,18 +165,9 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-Der nächste SAP Stammtisch Dortmund findet zusammen mit dem SAP Stammtisch Köln/Düsseldorf im Rahmen des Pre-Events des [SAP Inside Track NRW 2026](./sitNRW-2026) statt.
-
-> Termin: __12.06.2026, 18:00 Uhr__  
-  Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
-  Hoher Wall 5-7  
-  44135 Dortmund  
-  [Route](https://maps.app.goo.gl/uVnA9JtUXMTzDsDv6)
+> Termin: __tbd__  
 
 ## Anmeldung
-
-{: .notice--info }
-**Pre-Event sitNRW:** Du kannst dich bei der Teilnahme zum SAP Inside Track auch für den nächsten Stammtisch anmelden ([Details zum Inside Track hier](./sitNRW-2026)). Möchtest du nur zum Stammtisch kommen, kontaktiere [uns](#organisatoren) am besten direkt, für bessere Planbarkeit.
 
 Melde dich idealerweise im Voraus zu den Terminen an, damit wir entsprechend planen und reservieren können. Du kannst dies über die Event-Posts auf [LinkedIn](https://www.linkedin.com/groups/13062692/) oder der [SAP Community Location Group Dortmund](https://community.sap.com/t5/dortmund/gh-p/dortmund) tun oder dich einfach direkt bei einem der unter [Organisatoren](#organisatoren) verlinkten Ansprechpartnern melden.
 
