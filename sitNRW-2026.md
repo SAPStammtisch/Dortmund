@@ -72,7 +72,7 @@ Here you can register for the main event as well as the [pre-event](#pre-event) 
 | 08:30 | 09:00 | Meet & Greet |  |
 | 09:00 | 09:15 | Opening | Fabian, Björn, Holger, Patrick |
 | 09:15 | 09:30 | SAP Community ([Slides](/assets/What-is-the-SAP-Community_SAP-Inside-Track-NRW-2026.pdf)) | Laura Schmitz |
-| 09:30 | 09:50 | Business Objects in ABAP Cloud - A practical Introduction to RAP | Victor Fibechola Okpanachi |
+| 09:30 | 09:50 | Business Objects in ABAP Cloud - A practical Introduction to RAP ([Slides](/assets/Business-Objects-in-ABAP-cloud.pdf)) | Victor Fibechola Okpanachi |
 | 09:50 | 10:00 | Coffee & Talk |  |
 | 10:00 | 10:40 | What's new in RAP? ([Slides](/assets/Whats-new-in-RAP-2605.pdf)) | Andre Fischer |
 | 10:45 | 11:25 | Building Modern CAP Applications with Best Practices & AI ([Slides](/assets/BuildingModernCAPAplications.pdf)) | Daniel Schlachter, Christian Georgi, Birgit Selbach |
