@@ -165,7 +165,11 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: __tbd__  
+> Termin: __30.07.2026, 18:30 Uhr__  
+  Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
+  Hoher Wall 5-7  
+  44135 Dortmund  
+  [Route](https://maps.app.goo.gl/uVnA9JtUXMTzDsDv6)
 
 ## Anmeldung
 
@@ -203,7 +207,7 @@ In der Poststraße und Umgebung gibt es Parkuhren, die nur bis 19 Uhr kostenpfli
 
 In 2019 fand der SAP Inside Track RuhrPOTT, kurz sitPOTT, statt und wurde mit vom Stammtisch Dortmund organisiert. Der Termin im Folgejahr 2020 musste leider aus bekannten Gründen abgesagt werden. Das SAP Community Wiki wurde leider seit der Veranstaltung abgeschaltet. Daher findest du die Agenda und Veranstaltungsinfos nun hier.
 
-In 2026 findet der spirituelle Nachfolger, der SAP Inside Track NRW, kurz sitNRW, zum ersten Mal statt, welcher vom SAP Stammtisch Dortmund und SAP Stammtisch Köln/Düsseldorf mit organisiert wird. Details findest du auch hier.
+In 2026 fand der spirituelle Nachfolger, der SAP Inside Track NRW, kurz sitNRW, zum ersten Mal statt, welcher vom SAP Stammtisch Dortmund und SAP Stammtisch Köln/Düsseldorf mit organisiert wurde. Details findest du auch hier.
 
 {% include feature_row id="events" %}
 
@@ -212,6 +216,7 @@ In 2026 findet der spirituelle Nachfolger, der SAP Inside Track NRW, kurz sitNRW
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2026__ | | |
+| 12.06.2026 (Freitag) | 18:00 | Hövels Brauerei sitNRW Pre-Event |
 | 01.04.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 04.02.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
 | __2025__ | | |
