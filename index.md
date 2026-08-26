@@ -165,7 +165,7 @@ Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über 
 
 ## Nächstes Treffen
 
-> Termin: __30.07.2026, 18:30 Uhr__  
+> Termin: __10.09.2026, 18:30 Uhr__  
   Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
@@ -216,6 +216,7 @@ In 2026 fand der spirituelle Nachfolger, der SAP Inside Track NRW, kurz sitNRW, 
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2026__ | | |
+| 30.07.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 12.06.2026 (Freitag) | 18:00 | Hövels Brauerei sitNRW Pre-Event |
 | 01.04.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 04.02.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
