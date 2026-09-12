@@ -1,4 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+
+exclude:
+  - img/originals
+  - scripts
+  - README.md
+
 title: "SAP Stammtisch Dortmund"
 description: "Infos rund um den SAP Stammtisch Dortmund"
 plugins: [jekyll-include-cache]

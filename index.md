@@ -9,6 +9,10 @@ gallery:
     image_path: /img/2026-09-10.jpg
     alt: "Treffen 10.09.2026"
     title: "Treffen 10.09.2026"
+  - url: /img/2026-07-30.jpg
+    image_path: /img/2026-07-30.jpg
+    alt: "Treffen 30.07.2026"
+    title: "Treffen 30.07.2026"
   - url: /img/2026-04-01.jpg
     image_path: /img/2026-04-01.jpg
     alt: "Treffen 01.04.2026"
