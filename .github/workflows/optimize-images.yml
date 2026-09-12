@@ -1,11 +1,17 @@
 name: Optimize Images
 
-# Compress images in img/ on every push, commit the result back.
+# Compress new images in img/ on every push, commit the result back.
+# Only new images are processed to avoid churn on already-optimized files.
 on:
   push:
     branches: ["gh-pages"]
     paths: ["img/**", "scripts/**"]
   workflow_dispatch:
+    inputs:
+      full:
+        type: boolean
+        description: "Re-optimize all images (not only new ones)"
+        default: false
 
 jobs:
   optimize:
@@ -25,7 +31,12 @@ jobs:
         run: python -m pip install --quiet Pillow
 
       - name: Optimize images
-        run: python3 scripts/optimize_images.py
+        run: |
+          if [ "${{ inputs.full }}" = "true" ]; then
+            python3 scripts/optimize_images.py
+          else
+            python3 scripts/optimize_images.py --only-new
+          fi
 
       - name: Commit optimized images
         run: |

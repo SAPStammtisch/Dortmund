@@ -54,6 +54,11 @@ def archive_original(path: Path, dry: bool) -> bool:
     return True
 
 
+def is_new_image(path: Path) -> bool:
+    """True if no archived original exists yet, i.e. this image was never processed."""
+    return not (ORIGINALS_DIR / path.name).exists()
+
+
 def process_file(path: Path, dry: bool, max_width: int = MAX_JPEG_WIDTH) -> tuple[str, int, int]:
     """Compress one image; returns (type, before, after) bytes."""
     suffix = path.suffix.lower()
@@ -133,6 +138,10 @@ def main() -> int:
         "--max-width", type=int, default=MAX_JPEG_WIDTH,
         help=f"max JPEG width (default: {MAX_JPEG_WIDTH})",
     )
+    parser.add_argument(
+        "--only-new", action="store_true",
+        help="only process images without an archived original (used in CI)",
+    )
     args = parser.parse_args()
 
     max_width = args.max_width
@@ -153,6 +162,8 @@ def main() -> int:
         if f.suffix.lower() in (".jpg", ".jpeg", ".png")
         and ORIGINALS_DIR not in f.parents  # never process the archive
     ]
+    if args.only_new:
+        files = [f for f in files if is_new_image(f)]
 
     if not files:
         print("No JPEG/PNG images found.")
