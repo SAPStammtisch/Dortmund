@@ -5,6 +5,14 @@ toc: true
 toc_sticky: true
 toc_label: Inhalte
 gallery:
+  - url: /img/2026-09-10.jpg
+    image_path: /img/2026-09-10.jpg
+    alt: "Treffen 10.09.2026"
+    title: "Treffen 10.09.2026"
+  - url: /img/2026-04-01.jpg
+    image_path: /img/2026-04-01.jpg
+    alt: "Treffen 01.04.2026"
+    title: "Treffen 01.04.2026"
   - url: /img/2026-02-04.jpg
     image_path: /img/2026-02-04.jpg
     alt: "Treffen 04.02.2026"
@@ -159,17 +167,18 @@ Der SAP Stammtisch Dortmund ist ein regelmäßiges informelles Treffen der lokal
 
 Im Mittelpunkt steht ein lockerer fachlicher Austausch rund um SAP-Themen über Unternehmensgrenzen hinweg.
 
-## Impressionen
-
-{% include gallery layout="quarter" %}
-
 ## Nächstes Treffen
 
-> Termin: __10.09.2026, 18:30 Uhr__  
-  Ort: [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
+> __🎄Weihnachtsmarkt Edition🎄__  
+  Termin: __26.11.2026, 18:30 Uhr__  
+  Ort: Treffpunkt an der [Hövels Brauerei](http://www.hoevels-hausbrauerei.de/)  
   Hoher Wall 5-7  
   44135 Dortmund  
   [Route](https://maps.app.goo.gl/uVnA9JtUXMTzDsDv6)
+
+## Impressionen
+
+{% include gallery layout="quarter" %}
 
 ## Anmeldung
 
@@ -216,6 +225,7 @@ In 2026 fand der spirituelle Nachfolger, der SAP Inside Track NRW, kurz sitNRW, 
 | Datum | Uhrzeit | Ort |
 |-------|---------|-----|
 | __2026__ | | |
+| 10.09.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 30.07.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
 | 12.06.2026 (Freitag) | 18:00 | Hövels Brauerei sitNRW Pre-Event |
 | 01.04.2026 (Mittwoch) | 18:30 | Hövels Brauerei |
